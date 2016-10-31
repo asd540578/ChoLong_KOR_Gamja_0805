@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<NpcActionList>
+	<!-- 디오	:	환생의보석주머니 -->
+	<Action Name="2792">
+		<MakeItem>
+		 <Item Amount="1" ItemId="31097"/>
+		 <Material Amount="1" ItemId="31096" />	환생의보석
+		</MakeItem>
+	</Action>
+	<!-- 디오	:	고급다이아몬드 -->
+	<Action Name="2731">
+		<MakeItem>
+		 <Item Amount="1" ItemId="40048"/>
+		 <Material Amount="3" ItemId="40044" />		다이아몬드
+		 <Material Amount="250" ItemId="40308" />	아데나250
+		</MakeItem>
+	</Action>
+	<!-- 디오	:	고급에메랄드 -->
+	<Action Name="2732">
+		<MakeItem>
+		 <Item Amount="1" ItemId="40051"/>
+		 <Material Amount="3" ItemId="40047" />		에메랄드
+		 <Material Amount="250" ItemId="40308" />	아데나250
+		</MakeItem>
+	</Action>
+	<!-- 디오	:	고급루비 -->
+	<Action Name="2733">
+		<MakeItem>
+		 <Item Amount="1" ItemId="40049"/>
+		 <Material Amount="3" ItemId="40045" />		루비
+		 <Material Amount="250" ItemId="40308" />	아데나250
+		</MakeItem>
+	</Action>
+	<!-- 디오	:	고급사파이어 -->
+	<Action Name="2734">
+		<MakeItem>
+		 <Item Amount="1" ItemId="40050"/>
+		 <Material Amount="3" ItemId="40046" />		사파이어
+		 <Material Amount="250" ItemId="40308" />	아데나250
+		</MakeItem>
+	</Action>
+	<!-- 디오	:	최고급다이아몬드 -->
+	<Action Name="2735">
+		<MakeItem>
+		 <Item Amount="1" ItemId="40052"/>
+		 <Material Amount="3" ItemId="40048" />		다이아몬드
+		 <Material Amount="2500" ItemId="40308" />	아데나2500
+		</MakeItem>
+	</Action>
+	<!-- 디오	:	최고급에메랄드 -->
+	<Action Name="2736">
+		<MakeItem>
+		 <Item Amount="1" ItemId="40055"/>
+		 <Material Amount="3" ItemId="40051" />		에메랄드
+		 <Material Amount="2500" ItemId="40308" />	아데나2500
+		</MakeItem>
+	</Action>
+	<!-- 디오	:	최고급루비 -->
+	<Action Name="2737">
+		<MakeItem>
+		 <Item Amount="1" ItemId="40053"/>
+		 <Material Amount="3" ItemId="40049" />		루비
+		 <Material Amount="2500" ItemId="40308" />	아데나2500
+		</MakeItem>
+	</Action>
+	<!-- 디오	:	최고급사파이어 -->
+	<Action Name="2738">
+		<MakeItem>
+		 <Item Amount="1" ItemId="40054"/>
+		 <Material Amount="3" ItemId="40050" />		사파이어
+		 <Material Amount="2500" ItemId="40308" />	아데나2500
+		</MakeItem>
+	</Action>
+	<!-- 디오	:	극한의티아라원석 -->
+	<Action Name="2788">
+		<MakeItem>
+		 <Item Amount="1" ItemId="22260"/>
+		 <Material Amount="1" ItemId="40050" />		매력적인티아라
+		</MakeItem>
+	</Action>
+	<!-- 디오	:	극한의샌달원석 -->
+	<Action Name="2789">
+		<MakeItem>
+		 <Item Amount="1" ItemId="700004"/>
+		 <Material Amount="1" ItemId="20211" />		매력적인샌달
+		</MakeItem>
+	</Action>
+	<!-- 디오	:	드래곤의다이아몬드 -->
+	<Action Name="2790">
+		<MakeItem>
+		 <Item Amount="1" ItemId="1000004"/>
+		 <Material Amount="1" ItemId="410064" />	드래곤의에메랄드
+		</MakeItem>
+	</Action>
+	<!-- 디오	:	드래곤의보물상자 -->
+	<Action Name="2791">
+		<MakeItem>
+		 <Item Amount="1" ItemId="1000006"/>
+		 <Material Amount="1" ItemId="410065" />	드래곤의에메랄드
+		</MakeItem>
+	</Action>
+
+
+</NpcActionList>
+
+
